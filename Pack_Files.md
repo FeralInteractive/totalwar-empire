@@ -1,0 +1,76 @@
+# Mobile Pack Files
+
+Below is a list of all the pack files in the mobile game along with the command needed to unpack the contents. If you want to unpack any of these pack files copy the line(s) you want and place them into your mod_commands.txt file on your phone. Please note these pack files can be very large so make sure you have spare space and only unpack the ones you need.
+
+```
+unpack anim_launch.pack;            
+unpack anim.pack;                   
+unpack battle_db_changes.pack;
+unpack battlepresets_1.pack;        
+unpack battlepresets.pack;          
+unpack battleterrain_1.pack;        
+unpack battleterrain_2.pack;        
+unpack battleterrain.pack;          
+unpack boot.pack;                   
+unpack building_changes.pack;
+unpack campaign_ai_changes.pack;
+unpack campaign_db_fixes.pack;
+unpack campaign_map_changes.pack;
+unpack effects_additions.pack;
+unpack faction_traits.pack;
+unpack feral_remote_images.pack;
+unpack groupformations.pack;        
+unpack keybinding_changes.pack;
+unpack land_tutorial_script_changes.pack;
+unpack local_common.pack;
+unpack local_cz.pack;      
+unpack local_en.pack;      
+unpack local_fr.pack;      
+unpack local_ge.pack;      
+unpack local_it.pack;      
+unpack local_jp.pack;      
+unpack local_pl.pack;      
+unpack local_ru.pack;      
+unpack local_sp.pack;      
+unpack lua_changes.pack;
+unpack main_remote.pack;            
+unpack main.pack;                   
+unpack map_terrain.pack;
+unpack models_1.pack;               
+unpack models_2.pack;               
+unpack models_3.pack;               
+unpack models_campaign.pack;        
+unpack models_launch.pack;          
+unpack models.pack;                 
+unpack movies.pack;
+unpack naval_tutorial_script_changes.pack;
+unpack patch_media.pack;
+unpack patch_media.pack;
+unpack portraits1.pack;
+unpack portraits2.pack;
+unpack portraits3.pack;
+unpack projectile_error_corrections.pack;
+unpack quotes_additions.pack;
+unpack rigidmodels_changes.pack;
+unpack rti_battlepresets.pack;      
+unpack rti.pack;                    
+unpack seasurfaces.pack;            
+unpack sound_non_wavefile_data.pack;
+unpack sounds_anim_trig_campaign.pack;
+unpack sounds_animation_triggers.pack;
+unpack sounds_music.pack;           
+unpack sounds_other.pack;           
+unpack sounds_placeholder.pack;     
+unpack sounds_sfx.pack;             
+unpack sounds.pack;                 
+unpack subtitles.pack;              
+unpack supertexture.pack;           
+unpack terrain_templates.pack;
+unpack testdata.pack;
+unpack ui_campaign.pack;            
+unpack ui_movies.pack;              
+unpack ui.pack;                     
+unpack unit_balance_changes.pack;
+unpack voices.pack;                 
+unpack warpath_backport.pack
+```
