@@ -35,7 +35,11 @@ Open the "Files" appliction and go to the "On My Phone" section, then select "Em
 
 ### Android Mod Location
 
-Android
+To access the files on Android you will need to use a file manager that will give you access to the data section of your Android phone. This will be slightly different depending on your phone and the exact methods are beyond thew scope of this page.
+
+You can find the Empire mod folder at the following path:
+
+`Android/data/com.feralinteractive.empire_android/files/Documents/FeralEmpireMods`
 
 ##  Mod Commands File
 
@@ -58,8 +62,6 @@ Valid commands include:
 
 When running the `mod_commands.txt` file a new file will be created called `mod_logs.txt` inside the `FeralEmpireMods` folder. This will report some basic loading information for the mod confirming the commands that are being run while the mod loads. Please note it will not contain and details after the mod files are loaded.
 
-[Extra Docs](/Example.md)
-
 ## Mobile Packs
 
 The mobile version has some addional data packs compared to the desktop version. This page contains a list of all the packs the mobile version uses. The addional packs are linked to some of the mobile based features, in most cases the pack name will explain what the items in the pack are focused on.
@@ -68,7 +70,9 @@ The mobile version has some addional data packs compared to the desktop version.
 
 ## Example Mod
 
-To help show how modding should 
+To help show how modding should work we have created the following example mod. This mod will unlock the pirate faction as a playable faction and adds in one new unit (complete with new strings).
+
+[Example Mod](/Example_Mod.md)
 
 # Rules
 
