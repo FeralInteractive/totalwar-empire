@@ -13,7 +13,7 @@ Welcome! This is the home of the Total War: Empire mobile modding tools and docu
   * [Mod Logs File](#mod-logs-file)
   * [Mobile Packs](#mobile-packs)
   * [Example Mod](#example-mod)
-* [Rules & Notes](#rules_and_notes)
+* [Notes](#notes)
 
 # Important Information
 
@@ -74,7 +74,7 @@ To help show how modding should work we have created the following example mod. 
 
 [Example Mod](/Example_Mod.md)
 
-# Rules and Notes
+# Notes
 
 * We welcome pull requests with improvements to the tools or documentation
 * Bugs logged here should **ONLY** relate to modding questions.
