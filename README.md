@@ -13,7 +13,7 @@ Welcome! This is the home of the Total War: Empire mobile modding tools and docu
   * [Mod Logs File](#mod-logs-file)
   * [Mobile Packs](#mobile-packs)
   * [Example Mod](#example-mod)
-* [Rules](#rules)
+* [Rules & Notes](#rules_and_notes)
 
 # Important Information
 
@@ -74,7 +74,11 @@ To help show how modding should work we have created the following example mod. 
 
 [Example Mod](/Example_Mod.md)
 
-# Rules
+# Rules and Notes
 
 * We welcome pull requests with improvements to the tools or documentation
 * Bugs logged here should **ONLY** relate to modding questions.
+* The mobile game uses the same methods for modding as the desktop game with a few changes like texture formats (mobile uses astc).
+* Database editing uses the same tools as Windows.
+* **This GitHub will not contain any explanations of how to mod Total War Empire and is purely focused on mobile specific information.**
+
