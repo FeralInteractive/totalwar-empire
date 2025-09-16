@@ -17,7 +17,7 @@ Welcome! This is the home of the Total War: Empire mobile modding tools and docu
 
 # Important Information
 
-Modding the game can cause crashes and other issues especially if your phone hardware cannot support the additional or larger assets used in some mods. feral only offer support for playing the game un-modded. For any modding issues you should contact the team that made the mod you are trying to play.
+Modding the game can cause crashes and other issues especially if your phone hardware cannot support the additional or larger assets used in some mods. Feral Interactive only offer support for playing the game un-modded. For any modding issues you should contact the team that made the mod you are trying to play.
 
 Modding requires ownership of the base game and the "A New World" expansion.
 
@@ -43,7 +43,7 @@ You can find the Empire mod folder at the following path:
 
 ##  Mod Commands File
 
-This file is used to tell the game what mod files to load, it also can be used to pack and unpack data files and extract strings from the game. Each command needs to be on it's own line and end with the `;` symbol. You can leave comments using the `//` at the start of the line. 
+This file is used to tell the game what mod files to load, it also can be used to pack and unpack data files and extract strings from the game. Each command needs to be on it's own line and end with the `;` symbol. You can leave comments in the file using the `//` at the start of the line. 
 
 Valid commands include:
 
@@ -81,4 +81,11 @@ To help show how modding should work we have created the following example mod. 
 * The mobile game uses the same methods for modding as the desktop game with a few changes like texture formats (mobile uses astc).
 * Database editing uses the same tools as Windows.
 * **This GitHub will not contain any explanations of how to mod Total War Empire and is purely focused on mobile specific information.**
+
+# Links
+
+Here are some links to communities and projects that might be useful to modders wanting to know more about modding Total War Empire on all platforms:
+
+* etwng - Empire Total War Community Tools - https://github.com/taw/etwng/
+ * db tool - db <-> tsv converter can mod mobile database files - https://github.com/taw/etwng/tree/master/db
 
