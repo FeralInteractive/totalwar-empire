@@ -1,5 +1,5 @@
-![Workshop_header_template](/Workshop_header_template.png)
-# Welcome to the Total War: Empire Mobile Modding Tools GitHub
+![Workshop_header_template](/ETW_workshop_header_template.png)
+# Welcome to the Total War: Empire Mobile Modding GitHub
 Welcome! This is the home of the Total War: Empire mobile modding tools and documentation. This is the main place to access the official tools required to get you started.
 
 # Table Of Contents
