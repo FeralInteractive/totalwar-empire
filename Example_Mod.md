@@ -33,3 +33,4 @@ A few important notes for making your own mod you can notice from this mod.
 1. It's usually better to pack your entire mod into a single pack file to make it easier to install.
 2. Mods only need to contain the files you have modified or added. The example mod is under 1 Megabyte in size. Make sure when extracting data from base game packs you only repack the files you've edited. Users will thank you by keeping your mod size down!
 3. Like with data packs you only need to add strings you'd modified in your strings file as your file adds/overrides to the default one it doesn't replace it.
+4. You can unpack the mod pack file using the unpack command and review all the files inside to see how the mod was made.
