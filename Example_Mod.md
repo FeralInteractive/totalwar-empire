@@ -6,7 +6,7 @@ Welcome to the example mod, this mod will:
 2. Add in a single new "Stick Man" unit (complete with customised strings).
 3. Add in a faction trait for the Pirate Faction (viewable on the faction select screen).
 
-To install the mod you should place all three files inside the `FeralEmpireMods` on your phone making sure you own the expansion. You can download the example mod here: [ExampleMod.zip](/ExampleMod.zip)
+To install the mod you should place all three files inside the `FeralEmpireMods` on your phone making sure you own the expansion. You can download the example mod here: [ExampleMod.zip](ExampleMod.zip)
 
 Your FeralEmpireMods folder should look like this:
 
