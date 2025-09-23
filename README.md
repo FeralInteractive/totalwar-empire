@@ -13,6 +13,7 @@ Welcome! This is the home of the Total War: Empire mobile modding tools and docu
   * [Mod Logs File](#mod-logs-file)
   * [Mobile Packs](#mobile-packs)
   * [Example Mod](#example-mod)
+  * [Database Differences](#database-differences)
 * [Notes](#notes)
 
 # Important Information
@@ -74,6 +75,10 @@ To help show how modding should work we have created the following example mod. 
 
 [Example Mod](/Example_Mod.md)
 
+## Database Differences
+
+The mobile game has some chnages to the database format to support the new functionality. You can find out more about this on the [following page](/db_tools.md).
+
 # Notes
 
 * We welcome pull requests with improvements to the tools or documentation
@@ -88,4 +93,5 @@ Here are some links to communities and projects that might be useful to modders 
 
 * etwng - Empire Total War Community Tools - https://github.com/taw/etwng/
  * db tool - db <-> tsv converter can mod mobile database files - https://github.com/taw/etwng/tree/master/db
+ * **IMPORTANT** Make sure you check the [Database Differences page](/db_tools.md).
 
