@@ -48,6 +48,8 @@ This file is used to tell the game what mod files to load, it also can be used t
 
 Valid commands include:
 
+* `mod` - This will load a valid pack file. You use this to load a pack file into the game as a mod. **IMPORTANT** The pack file and the launch command must both be lower case. Using files or launch options with capital letters can cause issues ans should be avoided.
+  * Example `mod example_mod.pack;`
 * `unpack` - This will unpack a valid pack file into the modding folder. You can reference any pack from the base game or even a pack file inside the modding folder. This is similar to packing tools on the desktop but supports the additional compression used on mobile.
   * Example `unpack models_1.pack;`
 * `pack` - This will pack a folder into a pack file that then can be loaded in a mod.
