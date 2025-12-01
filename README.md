@@ -96,4 +96,5 @@ Here are some links to communities and projects that might be useful to modders 
 * etwng - Empire Total War Community Tools - https://github.com/taw/etwng/
  * db tool - db <-> tsv converter can mod mobile database files - https://github.com/taw/etwng/tree/master/db
  * **IMPORTANT** Make sure you check the [Database Differences page](/db_tools.md).
-
+* You can find mobile specific mods [here](https://www.moddb.com/games/empire-total-war-mobile).
+* You can find fan created tools for porting mods from PC to Mobile [here](https://www.moddb.com/games/empire-total-war-mobile/downloads/cobshops-modding-tools).
